@@ -1,0 +1,372 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services\\ActionCommandGame.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj",
+        "projectName": "ActionCommandGame.Model",
+        "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj",
+        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Repository\\ActionCommandGame.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Repository\\ActionCommandGame.Repository.csproj",
+        "projectName": "ActionCommandGame.Repository",
+        "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Repository\\ActionCommandGame.Repository.csproj",
+        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services.Abstractions\\ActionCommandGame.Services.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services.Abstractions\\ActionCommandGame.Services.Abstractions.csproj",
+        "projectName": "ActionCommandGame.Services.Abstractions",
+        "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services.Abstractions\\ActionCommandGame.Services.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj"
+              },
+              "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services.Model\\ActionCommandGame.Services.Model.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services.Model\\ActionCommandGame.Services.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services.Model\\ActionCommandGame.Services.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services.Model\\ActionCommandGame.Services.Model.csproj",
+        "projectName": "ActionCommandGame.Services.Model",
+        "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services.Model\\ActionCommandGame.Services.Model.csproj",
+        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services\\ActionCommandGame.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services\\ActionCommandGame.Services.csproj",
+        "projectName": "ActionCommandGame.Services",
+        "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services\\ActionCommandGame.Services.csproj",
+        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj"
+              },
+              "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Repository\\ActionCommandGame.Repository.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Repository\\ActionCommandGame.Repository.csproj"
+              },
+              "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services.Abstractions\\ActionCommandGame.Services.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services.Abstractions\\ActionCommandGame.Services.Abstractions.csproj"
+              },
+              "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Settings\\ActionCommandGame.Settings.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Settings\\ActionCommandGame.Settings.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Settings\\ActionCommandGame.Settings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Settings\\ActionCommandGame.Settings.csproj",
+        "projectName": "ActionCommandGame.Settings",
+        "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Settings\\ActionCommandGame.Settings.csproj",
+        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Settings\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

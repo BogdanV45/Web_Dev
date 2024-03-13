@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ActionCommandGame.Services.Abstractions/1.0.0": {
+        "dependencies": {
+          "ActionCommandGame.Model": "1.0.0",
+          "ActionCommandGame.Services.Model": "1.0.0"
+        },
+        "runtime": {
+          "ActionCommandGame.Services.Abstractions.dll": {}
+        }
+      },
+      "ActionCommandGame.Model/1.0.0": {
+        "runtime": {
+          "ActionCommandGame.Model.dll": {}
+        }
+      },
+      "ActionCommandGame.Services.Model/1.0.0": {
+        "dependencies": {
+          "ActionCommandGame.Model": "1.0.0"
+        },
+        "runtime": {
+          "ActionCommandGame.Services.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ActionCommandGame.Services.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ActionCommandGame.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ActionCommandGame.Services.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
