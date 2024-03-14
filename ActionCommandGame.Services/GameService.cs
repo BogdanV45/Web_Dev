@@ -62,6 +62,7 @@ namespace ActionCommandGame.Services
             }
 
             var hasExploitEfficiencyItem = player.CurrentExploitEfficiencyPlayerItem != null;
+
             var positiveGameEvent = _positiveGameEventService.GetRandomPositiveGameEvent(hasExploitEfficiencyItem);
             if (positiveGameEvent == null)
             {

@@ -609,11 +609,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Repository\\ActionCommandGame.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\App Dev On My Own\\Github repos school\\Webdev_Actioncommand\\Web_Dev\\ActionCommandGame.Repository\\ActionCommandGame.Repository.csproj",
       "projectName": "ActionCommandGame.Repository",
-      "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Repository\\ActionCommandGame.Repository.csproj",
+      "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\App Dev On My Own\\Github repos school\\Webdev_Actioncommand\\Web_Dev\\ActionCommandGame.Repository\\ActionCommandGame.Repository.csproj",
       "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Repository\\obj\\",
+      "outputPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\App Dev On My Own\\Github repos school\\Webdev_Actioncommand\\Web_Dev\\ActionCommandGame.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -630,8 +630,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj": {
-              "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj"
+            "C:\\Users\\Bogdan\\Desktop\\Bogdan\\App Dev On My Own\\Github repos school\\Webdev_Actioncommand\\Web_Dev\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj": {
+              "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\App Dev On My Own\\Github repos school\\Webdev_Actioncommand\\Web_Dev\\ActionCommandGame.Model\\ActionCommandGame.Model.csproj"
             }
           }
         }

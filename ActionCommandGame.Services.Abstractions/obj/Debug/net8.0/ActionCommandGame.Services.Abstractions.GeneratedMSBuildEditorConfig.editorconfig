@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ActionCommandGame.Services.Abstractions
-build_property.ProjectDir = C:\Users\Bogdan\Desktop\Bogdan\Classes\2de jaar\Web Dev 2\ActionCommandGame(hack2)\ActionCommandGame.Services.Abstractions\
+build_property.ProjectDir = C:\Users\Bogdan\Desktop\Bogdan\App Dev On My Own\Github repos school\Webdev_Actioncommand\Web_Dev\ActionCommandGame.Services.Abstractions\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

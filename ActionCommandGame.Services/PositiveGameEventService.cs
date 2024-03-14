@@ -29,7 +29,7 @@ namespace ActionCommandGame.Services
             //If we don't have an exploit item, we can only get low-reward items.
             if (!hasExploitEfficiencyItem)
             {
-                query = query.Where(p => p.Money < 50);
+                query = query.Where(p => p.Money < 150);
             }
 
             var gameEvents = query.ToList();

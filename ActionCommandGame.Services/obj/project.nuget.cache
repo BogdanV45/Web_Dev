@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8fHi9iFEYedKHQlg0MEHwfmmlDyHQrtJ75u25Zje/5hNMPIngDDgrtiLZqFyBOtI37RDRI8g29Nkr2Z9nmKoQA==",
+  "dgSpecHash": "xqgN/fQgJirsIy8MWGnkEFOE5TRCddWn/jvzXtdOBKXVxNidMiAZMPV0toH6EdN6lc4Vv/JdIgmt//h/v4sNpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Services\\ActionCommandGame.Services.csproj",
+  "projectFilePath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\App Dev On My Own\\Github repos school\\Webdev_Actioncommand\\Web_Dev\\ActionCommandGame.Services\\ActionCommandGame.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bogdan\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\Bogdan\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",

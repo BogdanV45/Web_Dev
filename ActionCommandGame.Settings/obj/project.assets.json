@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Settings\\ActionCommandGame.Settings.csproj",
+      "projectUniqueName": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\App Dev On My Own\\Github repos school\\Webdev_Actioncommand\\Web_Dev\\ActionCommandGame.Settings\\ActionCommandGame.Settings.csproj",
       "projectName": "ActionCommandGame.Settings",
-      "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Settings\\ActionCommandGame.Settings.csproj",
+      "projectPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\App Dev On My Own\\Github repos school\\Webdev_Actioncommand\\Web_Dev\\ActionCommandGame.Settings\\ActionCommandGame.Settings.csproj",
       "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Settings\\obj\\",
+      "outputPath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\App Dev On My Own\\Github repos school\\Webdev_Actioncommand\\Web_Dev\\ActionCommandGame.Settings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",

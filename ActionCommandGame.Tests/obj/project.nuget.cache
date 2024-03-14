@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KABcCApXyw7r//yPJMGvDBDkjDhkHM5M3ToPA1GBNNH6e9/Jrdj29pgJ4fOBWeMEKyPijVrdlkGHbUPs74DKiA==",
+  "dgSpecHash": "jP5NUL4ZKr/CavXFYE4LHa8sMhc9pkOKH5R0rr5sTUdt/7QJFEOOZtXdfl5piTrLKEsNVZX7j+nrYRJkv7m+qw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\Classes\\2de jaar\\Web Dev 2\\ActionCommandGame(hack2)\\ActionCommandGame.Tests\\ActionCommandGame.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Bogdan\\Desktop\\Bogdan\\App Dev On My Own\\Github repos school\\Webdev_Actioncommand\\Web_Dev\\ActionCommandGame.Tests\\ActionCommandGame.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bogdan\\.nuget\\packages\\coverlet.collector\\6.0.1\\coverlet.collector.6.0.1.nupkg.sha512",
     "C:\\Users\\Bogdan\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
